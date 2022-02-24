@@ -12,4 +12,7 @@ print ('"This is same as double quotes"')
 
 #To use quotes in a quotes
 #keep inner quotes different from outer
+print ("hi this is akash \nhello akash i am mohit")
 
+#\n is for new line character
+#Use it inside quotes for new-lines.
