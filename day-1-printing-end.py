@@ -11,3 +11,11 @@ c = a + b
 print ("The addition of a+b is C =  ", c)
 
 ```
+
+
+#Count number of characters in a given string  👇
+
+
+```python
+print(len (input("whats your name?")))
+```
