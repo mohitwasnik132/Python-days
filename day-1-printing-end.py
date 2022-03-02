@@ -19,3 +19,12 @@ print ("The addition of a+b is C =  ", c)
 ```python
 print(len (input("whats your name?")))
 ```
+
+
+
+##Count LENGTH OF STRING WITHOUT WHITESPACES
+
+```python
+str = input("whats your name?")
+print(len (str.replace(" ","")))
+```
